@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP3PlayerUI", "MP3PlayerUI\MP3PlayerUI.csproj", "{02599C51-B858-4D04-9F94-B7BEFDD4F975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02599C51-B858-4D04-9F94-B7BEFDD4F975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02599C51-B858-4D04-9F94-B7BEFDD4F975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02599C51-B858-4D04-9F94-B7BEFDD4F975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02599C51-B858-4D04-9F94-B7BEFDD4F975}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {760E2747-DD72-4E78-88C5-3F3F568E6993}
+	EndGlobalSection
+EndGlobal
